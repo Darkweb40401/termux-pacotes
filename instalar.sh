@@ -1,5 +1,18 @@
 #!/bin/bash
 
+
+clear
+
+echo "#####################"
+echo "CRIADOR -Darkweb40401"
+echo "#####################"
+echo "                     "
+echo "####################"
+echo "TERMUX-SETUP-STORAGE"
+echo "####################"
+echo "                    "
+termux-setup-storage
+
 clear
 
 echo "#####################"
